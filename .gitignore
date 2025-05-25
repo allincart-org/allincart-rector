@@ -1,0 +1,11 @@
+.idea
+*.iml
+vendor
+
+.phpunit.result.cache
+.php-cs-fixer.cache
+
+# Devenv
+.devenv*
+devenv.local.nix
+
